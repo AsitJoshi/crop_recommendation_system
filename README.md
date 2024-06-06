@@ -4,8 +4,8 @@
 
 ## Contributors
 
-| Name  | Github-ID |
-| ------------- | ------------- |
+| Name  |
+| ------------- | 
 | Abhishek Sharma  |  
 | Alokit Sharma | 
 | Ankita Arya | 
